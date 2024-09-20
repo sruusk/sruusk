@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 
 Here are some of my notable projects:
 
-- **CS:GO Finder**: A search engine for linked third party matchmaking accounts.
+- **[CS:GO Finder](https://csgofinder.eu)**: A search engine for linked third party matchmaking accounts.
 - **AI-Chat**: An OpenAI powered chat platform with custom Shopify integrations.
 - **Internal Form System**: An internal electronic form system for a company.
 
