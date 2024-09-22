@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 ## Skills
 
 - **Languages**: Python, JavaScript, C#, C++, TypeScript, CSS
-- **Technologies**: MongoDB, OpenAI, Shopify, GitHub Actions, Mapbox
-- **Tools**: Docker, Git, Nginx
+- **Technologies**: MongoDB, OpenAI, Shopify, GitHub Actions, Mapbox, Node.js, React, Vue.js
+- **Tools**: Docker, Git, Nginx, Linux, Azure, Google Cloud
 
 ## Projects
 
