@@ -20,7 +20,6 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Technologies
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -47,7 +46,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 
 Here are some of my notable projects:
 
-- **[CS:GO Finder](https://csgofinder.eu)**: A search engine for linked third party matchmaking accounts. Utilizes technologies like MongoDB, Node.js, Vue.js, and various scraping tools such as [`esportal-scraper`](https://github.com/sruusk/esportal-scraper) built using Ulixee Hero.
+- **[CS:GO Finder](https://csgofinder.eu)**: A search engine for linked third party matchmaking accounts. Utilizes technologies like MongoDB, Node.js, Vue.js, and various APIs and scraping tools such as [`esportal-scraper`](https://github.com/sruusk/esportal-scraper) built using Ulixee Hero.
 - **AI-Chat**: OpenAI powered chat platform with custom Shopify integrations for a client company. Built with technologies including MongoDB, OpenAI, Node.js, and JWT for authentication.
 - **Internal Form System**: An internal electronic custom form system for a company. Uses MongoDB, Vue.js, `excel4node` for generating Excel reports, and MSAL for Azure Entra ID login.
 
