@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 
 ## Projects
 
-Here are some of my notable projects:
+Here are some of my private projects:
 
 - **[CS:GO Finder](https://csgofinder.eu)**: A search engine for linked third party matchmaking accounts. Utilizes technologies like MongoDB, Node.js, Vue.js, and various APIs and scraping tools such as [`esportal-scraper`](https://github.com/sruusk/esportal-scraper) built using Ulixee Hero.
 - **AI-Chat**: OpenAI powered chat platform with custom Shopify integrations for a client company. Built with technologies including MongoDB, OpenAI, Node.js, and JWT for authentication.
