@@ -42,13 +42,6 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-## Projects
-
-Here are some of my private projects:
-
-- **[CS:GO Finder](https://csgofinder.eu)**: A search engine for linked third party matchmaking accounts. Utilizes technologies like MongoDB, Node.js, Vue.js, and various APIs and scraping tools such as [`esportal-scraper`](https://github.com/sruusk/esportal-scraper) built using Ulixee Hero.
-- **AI-Chat**: OpenAI powered chat platform with custom Shopify integrations for a client company. Built with technologies including MongoDB, OpenAI, Node.js, and JWT for authentication.
-- **Internal Form System**: An internal electronic custom form system for a company. Uses MongoDB, Vue.js, `excel4node` for generating Excel reports, and MSAL for Azure Entra ID login.
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
